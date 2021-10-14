@@ -13,7 +13,7 @@ GetStarted First, i have create new repository Code-Refactor in my github accoun
 * Github
 
 
-## Webiste 
+## Webiste  
 https://zeeshanmufti1995.github.io/Code-refactor/
 
 ## Screen shot
